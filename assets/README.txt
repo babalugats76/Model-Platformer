@@ -19,7 +19,7 @@ Request: http://request.kenney.nl/
 
 Fonts: 
 
-Alemendra Bold by Ana Sanfelippo (https://www.fontsquirrel.com/fonts/almendra)
+Almendra Bold by Ana Sanfelippo (https://www.fontsquirrel.com/fonts/almendra)
 
 Audio:
 
