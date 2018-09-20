@@ -6,7 +6,7 @@ Software:
   
 Audacity (http://audacityteam.org/) 
 Audio Tool (https://www.audiotool.com/)
-Construct 2 (Paid version) by Scirra (https://www.scirra.com/)
+Construct 3 (Paid version) by Scirra (https://www.scirra.com/)
 Kenney Studio (http://kenney.nl/projects/kenney-studio)
 Inkscape (https://inkscape.org/en/)
 ShoeBox (http://renderhjs.net/shoebox/)
