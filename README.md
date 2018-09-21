@@ -1,5 +1,5 @@
 # Platformer (Model)
-This model project is used to teach students the basic of Game Design; the Construct 2/3 game engines are featured.
+This model project is used to teach students the basics of Game Design; the Construct 2/3 game engines are featured.
 ## Software 
 - Audacity (http://audacityteam.org/) 
 - Audio Tool (https://www.audiotool.com/)
