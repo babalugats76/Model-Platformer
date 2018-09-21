@@ -1,5 +1,3 @@
-Many thanks to the following parties.  
-
 All materials licensed under CC0 unless otherwise specified.
 
 Software: 
@@ -23,12 +21,10 @@ Almendra Bold by Ana Sanfelippo (https://www.fontsquirrel.com/fonts/almendra)
 
 Audio:
 
-Licenses were purchased for the following sounds through soundsnap.com (re-distribution of sounds "as is" not permitted)
-
-"Door Slam Bounce Open" by Justine Angus
-"Video Game Joystick Button Push Switch" by Blastwave FX
-"Gameboy Game Blip" by L&F Music
-"Descending Gamey Blip" by L&F Music
+"Door slam 1.wav" by bennstir (https://freesound.org/s/80928/)
+"Telephone Pick Up.wav" by Analog Bleep Ten (https://freesound.org/s/75828/)
+"Coins 1" by ProjectsU012 (https://freesound.org/s/341695/)
+"Failure 01" by rhodesmas (https://freesound.org/s/342756/)
 
 Game theme created with audiotool and prominently featuring "CELLO ENS" by GRANPAW with CC BY-SA licensing. 
 (https://www.audiotool.com/track/platformer_game_theme)
